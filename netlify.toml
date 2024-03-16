@@ -1,0 +1,9 @@
+[build]
+  command = "vite build"
+  functions = "C:\\Users\\vivaa\\react-portfolio\\netlify\\functions"
+  publish = "dist"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
