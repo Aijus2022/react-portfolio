@@ -133,7 +133,7 @@
     "deployedLink": "https://aijus2022.github.io/Insight_wallet/",
     "githubLink": "https://github.com/Aijus2022/Insight-wallet",
     "image": "project17.png",
-    "description": "Insight_Wallet"is a React application that analyzes the financial records of a user ased on a provided dataset. It calculates key financial metrics and displays the results as barcharts and piecharts. Technologies Used: React js,node JS,Chart.js,JSON,local storage"
+    "description": "Insight_Wallet is a React application that analyzes the financial records of a user ased on a provided dataset. It calculates key financial metrics and displays the results as barcharts and piecharts. Technologies Used: React js,node JS,Chart.js,JSON,local storage"
 },
 ]
  
