@@ -6,6 +6,7 @@ import Home from './Home';
 import Projects from './Projects';
 import Project from './Project';
 import Contact from './Contact';
+import Gallery from './Gallery';
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
           <Route exact path="/projects" element={<Projects />} /> 
           <Route path="/projects/:projectId" element={<Project />} /> 
           <Route exact path="/contact" element={<Contact />} /> 
+           <Route exact path="/gallery" element={<Gallery />} /> 
         </Routes>
       </div>
     </Router>
